@@ -9,6 +9,8 @@ function makeid(l) {
 
   return result;
 }
+console.log(makeid(5)); // Output: A random string of length 5
+console.log(makeid(10)); // 
 
 
 // Do not change the code below.
